@@ -1,2 +1,2 @@
 print("hello world");
-print(59/60)
+print(59/60);
